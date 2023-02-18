@@ -2,7 +2,8 @@
 
 This program was created to simplify the process of visualizing the grades received for the course.  
 
-* Grades is shown below:
+* Grades distribution table is shown below:  
+  
 ![3](https://user-images.githubusercontent.com/83032359/219873553-94e5b79d-b8df-4ce9-9216-486a1259a45e.jpg)
 
 
